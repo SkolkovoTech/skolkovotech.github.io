@@ -10,4 +10,4 @@
 Начало в 18.00
 
 ## Контакты
-https://t.me/SkolkovoTech
+[https://t.me/SkolkovoTech](https://t.me/SkolkovoTech)
